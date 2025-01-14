@@ -12,7 +12,7 @@ export default function Home() {
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
         <span className={title()}>Make&nbsp;</span>
-        <span className={title({ color: "violet" })}>Powerfull&nbsp;</span>
+        <span className={title({ color: "violet" })}>Apps with Anees&nbsp;</span>
         <br />
         <span className={title()}>
           websites regardless of your design experience.
