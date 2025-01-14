@@ -40,14 +40,14 @@ export default function Home() {
           href={siteConfig.links.github}
         >
           <GithubIcon size={20} />
-          GitHub
+          Checkout Github 
         </Link>
       </div>
 
       <div className="mt-8">
         <Snippet hideCopyButton hideSymbol variant="bordered">
           <span>
-            Get started by editing <Code color="primary">app/page.tsx</Code>
+            Get started with Anees <Code color="primary">app/page.tsx</Code>
           </span>
         </Snippet>
       </div>
